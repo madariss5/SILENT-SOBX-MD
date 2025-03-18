@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~bUQklQoQ#djGQBLZqVVeihsoy6hOzQPJE0FqoyXpkKRC_7Q6OQ4w",
+    SESSION_ID: process.env.SESSION_ID || "SILENT-SOBX-MD~XZIzFDoL#m7Q3UKF3SeJt2maiUBHlSaFgqfLFefgQylJPt-NNoto",
     CAPTION: process.env.CAPTION || "POWERED BY MARTIN",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -27,8 +27,8 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "923096287432",
-    OWNER_NAME: process.env.OWNER_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "4915563151347",
+    OWNER_NAME: process.env.OWNER_NAME || "Martin࿐",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻",
     STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү 𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻",
